@@ -1,3 +1,9 @@
+#######################################################
+#	e-Gizmo Serial LCD 2 Driver
+#	Get ir at: http://www.e-gizmo.com/oc/index.php?route=product/product&product_id=13&search=serial+lcd
+#	nrafallo@gmail.com
+#######################################################
+
 from __future__ import print_function
 from serial import Serial
 import time
